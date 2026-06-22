@@ -1,0 +1,184 @@
+[
+  {
+    "task_id": "task_1",
+    "task_description": "Open the fridge",
+    "completed": true,
+    "final_result": "success",
+    "timestamp": "2026-06-22T00:44:21.850117",
+    "steps": [
+      {
+        "action": "open_fridge",
+        "observation": "Fridge is now open.",
+        "success": true
+      }
+    ]
+  },
+  {
+    "task_id": "task_2",
+    "task_description": "Get milk from the fridge",
+    "completed": true,
+    "final_result": "success",
+    "timestamp": "2026-06-22T00:44:21.850155",
+    "steps": [
+      {
+        "action": "open_fridge",
+        "observation": "Fridge is now open.",
+        "success": true
+      },
+      {
+        "action": "grab_milk",
+        "observation": "Grabbed the milk from the fridge.",
+        "success": true
+      }
+    ]
+  },
+  {
+    "task_id": "task_3",
+    "task_description": "Make toast",
+    "completed": true,
+    "final_result": "success",
+    "timestamp": "2026-06-22T00:44:21.850165",
+    "steps": [
+      {
+        "action": "grab_bread",
+        "observation": "Grabbed the bread from the counter.",
+        "success": true
+      },
+      {
+        "action": "turn_on_toaster",
+        "observation": "Toaster is on and bread is toasting.",
+        "success": true
+      }
+    ]
+  },
+  {
+    "task_id": "task_4",
+    "task_description": "Get a plate out",
+    "completed": true,
+    "final_result": "success",
+    "timestamp": "2026-06-22T00:44:21.850175",
+    "steps": [
+      {
+        "action": "get_plate",
+        "observation": "Got a plate out.",
+        "success": true
+      }
+    ]
+  },
+  {
+    "task_id": "task_5",
+    "task_description": "Get buttered toast",
+    "completed": true,
+    "final_result": "success",
+    "timestamp": "2026-06-22T00:44:21.850183",
+    "steps": [
+      {
+        "action": "open_fridge",
+        "observation": "Fridge is now open.",
+        "success": true
+      },
+      {
+        "action": "grab_butter",
+        "observation": "Grabbed the butter from the fridge.",
+        "success": true
+      },
+      {
+        "action": "grab_bread",
+        "observation": "Grabbed the bread from the counter.",
+        "success": true
+      },
+      {
+        "action": "turn_on_toaster",
+        "observation": "Toaster is on and bread is toasting.",
+        "success": true
+      },
+      {
+        "action": "get_plate",
+        "observation": "Got a plate out.",
+        "success": true
+      }
+    ]
+  },
+  {
+    "task_id": "task_6",
+    "task_description": "Boil the kettle",
+    "completed": true,
+    "final_result": "success",
+    "timestamp": "2026-06-22T00:44:21.850198",
+    "steps": [
+      {
+        "action": "turn_on_kettle",
+        "observation": "Kettle is now boiling.",
+        "success": true
+      }
+    ]
+  },
+  {
+    "task_id": "task_7",
+    "task_description": "Make tea",
+    "completed": true,
+    "final_result": "success",
+    "timestamp": "2026-06-22T00:44:21.850204",
+    "steps": [
+      {
+        "action": "turn_on_kettle",
+        "observation": "Kettle is now boiling.",
+        "success": true
+      },
+      {
+        "action": "get_cup",
+        "observation": "Got a cup out.",
+        "success": true
+      }
+    ]
+  },
+  {
+    "task_id": "task_8",
+    "task_description": "Full breakfast prep",
+    "completed": true,
+    "final_result": "success",
+    "timestamp": "2026-06-22T00:44:21.850212",
+    "steps": [
+      {
+        "action": "open_fridge",
+        "observation": "Fridge is now open.",
+        "success": true
+      },
+      {
+        "action": "grab_milk",
+        "observation": "Grabbed the milk from the fridge.",
+        "success": true
+      },
+      {
+        "action": "grab_butter",
+        "observation": "Grabbed the butter from the fridge.",
+        "success": true
+      },
+      {
+        "action": "grab_bread",
+        "observation": "Grabbed the bread from the counter.",
+        "success": true
+      },
+      {
+        "action": "turn_on_toaster",
+        "observation": "Toaster is on and bread is toasting.",
+        "success": true
+      },
+      {
+        "action": "get_plate",
+        "observation": "Got a plate out.",
+        "success": true
+      },
+      {
+        "action": "turn_on_kettle",
+        "observation": "Kettle is now boiling.",
+        "success": true
+      },
+      {
+        "action": "get_cup",
+        "observation": "Got a cup out.",
+        "success": true
+      }
+    ]
+  }
+]
