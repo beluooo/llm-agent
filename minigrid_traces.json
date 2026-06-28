@@ -1,0 +1,4872 @@
+[
+  {
+    "task_id": "task_1",
+    "task_description": "Complete MiniGrid-Empty-8x8-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.294616",
+    "steps": [
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_2",
+    "task_description": "Complete MiniGrid-LavaGapS5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.297944",
+    "steps": [
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=True",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_3",
+    "task_description": "Complete MiniGrid-Empty-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.298577",
+    "steps": [
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_4",
+    "task_description": "Complete MiniGrid-Empty-8x8-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.301805",
+    "steps": [
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_5",
+    "task_description": "Complete MiniGrid-FourRooms-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.305166",
+    "steps": [
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_6",
+    "task_description": "Complete MiniGrid-FourRooms-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.309421",
+    "steps": [
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_7",
+    "task_description": "Complete MiniGrid-Empty-8x8-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.312447",
+    "steps": [
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_8",
+    "task_description": "Complete MiniGrid-FourRooms-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.315125",
+    "steps": [
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_9",
+    "task_description": "Complete MiniGrid-DoorKey-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.318054",
+    "steps": [
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_10",
+    "task_description": "Complete MiniGrid-Empty-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.321406",
+    "steps": [
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_11",
+    "task_description": "Complete MiniGrid-Empty-8x8-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.324140",
+    "steps": [
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_12",
+    "task_description": "Complete MiniGrid-DoorKey-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.326905",
+    "steps": [
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_13",
+    "task_description": "Complete MiniGrid-LavaGapS5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.329446",
+    "steps": [
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=True",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_14",
+    "task_description": "Complete MiniGrid-DoorKey-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.331868",
+    "steps": [
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_15",
+    "task_description": "Complete MiniGrid-Empty-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.335470",
+    "steps": [
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_16",
+    "task_description": "Complete MiniGrid-LavaGapS5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.338047",
+    "steps": [
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=True",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_17",
+    "task_description": "Complete MiniGrid-LavaGapS5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.338990",
+    "steps": [
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=True",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_18",
+    "task_description": "Complete MiniGrid-LavaGapS5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.339719",
+    "steps": [
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_19",
+    "task_description": "Complete MiniGrid-Empty-8x8-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.342023",
+    "steps": [
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_20",
+    "task_description": "Complete MiniGrid-LavaGapS5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.344944",
+    "steps": [
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_21",
+    "task_description": "Complete MiniGrid-DoorKey-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.347992",
+    "steps": [
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_22",
+    "task_description": "Complete MiniGrid-FourRooms-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.350693",
+    "steps": [
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_23",
+    "task_description": "Complete MiniGrid-LavaGapS5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.353690",
+    "steps": [
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=True",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_24",
+    "task_description": "Complete MiniGrid-LavaGapS5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.354102",
+    "steps": [
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=True",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_25",
+    "task_description": "Complete MiniGrid-DoorKey-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.355150",
+    "steps": [
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_26",
+    "task_description": "Complete MiniGrid-DoorKey-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.358159",
+    "steps": [
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_27",
+    "task_description": "Complete MiniGrid-Empty-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.360949",
+    "steps": [
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_28",
+    "task_description": "Complete MiniGrid-Empty-8x8-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.364021",
+    "steps": [
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_29",
+    "task_description": "Complete MiniGrid-LavaGapS5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.366569",
+    "steps": [
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=True",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_30",
+    "task_description": "Complete MiniGrid-LavaGapS5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.367587",
+    "steps": [
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_31",
+    "task_description": "Complete MiniGrid-DoorKey-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.370733",
+    "steps": [
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_32",
+    "task_description": "Complete MiniGrid-FourRooms-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.374430",
+    "steps": [
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_33",
+    "task_description": "Complete MiniGrid-LavaGapS5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.377827",
+    "steps": [
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=True",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_34",
+    "task_description": "Complete MiniGrid-Empty-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.378997",
+    "steps": [
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_35",
+    "task_description": "Complete MiniGrid-Empty-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.381276",
+    "steps": [
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_36",
+    "task_description": "Complete MiniGrid-Empty-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.384035",
+    "steps": [
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_37",
+    "task_description": "Complete MiniGrid-Empty-8x8-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.387586",
+    "steps": [
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_38",
+    "task_description": "Complete MiniGrid-Empty-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.390603",
+    "steps": [
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_39",
+    "task_description": "Complete MiniGrid-FourRooms-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.393008",
+    "steps": [
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_40",
+    "task_description": "Complete MiniGrid-DoorKey-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.397545",
+    "steps": [
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_41",
+    "task_description": "Complete MiniGrid-FourRooms-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.402207",
+    "steps": [
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_42",
+    "task_description": "Complete MiniGrid-Empty-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.405578",
+    "steps": [
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_43",
+    "task_description": "Complete MiniGrid-FourRooms-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.409323",
+    "steps": [
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_44",
+    "task_description": "Complete MiniGrid-DoorKey-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.413087",
+    "steps": [
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_45",
+    "task_description": "Complete MiniGrid-LavaGapS5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.416959",
+    "steps": [
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=True",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_46",
+    "task_description": "Complete MiniGrid-LavaGapS5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.419673",
+    "steps": [
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_47",
+    "task_description": "Complete MiniGrid-Empty-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.422928",
+    "steps": [
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_48",
+    "task_description": "Complete MiniGrid-Empty-5x5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.426301",
+    "steps": [
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_49",
+    "task_description": "Complete MiniGrid-LavaGapS5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.429336",
+    "steps": [
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "toggle",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_50",
+    "task_description": "Complete MiniGrid-LavaGapS5-v0",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-28T16:51:45.432033",
+    "steps": [
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "done",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "move_forward",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_right",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "turn_left",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "drop",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      },
+      {
+        "action": "pickup",
+        "observation": "reward=0.00 done=False",
+        "success": false
+      }
+    ]
+  }
+]
