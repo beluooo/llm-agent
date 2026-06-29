@@ -1,0 +1,4202 @@
+[
+  {
+    "task_id": "task_1",
+    "task_description": "Your task is to: put a soapbottle in garbagecan.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:18:04.164096",
+    "steps": [
+      {
+        "action": "go to handtowelholder 1",
+        "observation": "You arrive at handtowelholder 1. On the handtowelholder 1, you see a handtowel 1.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 1",
+        "observation": "You arrive at countertop 1. On the countertop 1, you see a spraybottle 3, and a spraybottle 1.",
+        "success": false
+      },
+      {
+        "action": "go to towelholder 1",
+        "observation": "You arrive at towelholder 1. On the towelholder 1, you see a towel 1.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 4",
+        "observation": "You arrive at cabinet 4. The cabinet 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to toiletpaperhanger 1",
+        "observation": "You arrive at toiletpaperhanger 1. On the toiletpaperhanger 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "examine toiletpaperhanger 1",
+        "observation": "On the toiletpaperhanger 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "examine toiletpaperhanger 1",
+        "observation": "On the toiletpaperhanger 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 4",
+        "observation": "You arrive at cabinet 4. The cabinet 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine cabinet 4",
+        "observation": "The cabinet 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to toiletpaperhanger 1",
+        "observation": "You arrive at toiletpaperhanger 1. On the toiletpaperhanger 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to towelholder 1",
+        "observation": "You arrive at towelholder 1. On the towelholder 1, you see a towel 1.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "examine towelholder 1",
+        "observation": "On the towelholder 1, you see a towel 1.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see a soapbar 3.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_2",
+    "task_description": "Your task is to: put a clean mug in coffeemachine.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:18:06.891703",
+    "steps": [
+      {
+        "action": "go to stoveburner 1",
+        "observation": "You arrive at stoveburner 1. On the stoveburner 1, you see a pan 1.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 2",
+        "observation": "You arrive at countertop 2. On the countertop 2, you see a saltshaker 2, and a saltshaker 1.",
+        "success": false
+      },
+      {
+        "action": "take saltshaker 1 from countertop 2",
+        "observation": "You pick up the saltshaker 1 from the countertop 2.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are carrying: a saltshaker 1.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 3",
+        "observation": "You arrive at countertop 3. On the countertop 3, you see a cup 3, a fork 1, a lettuce 2, a papertowelroll 1, a peppershaker 2, and a sink 1.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see a tomato 3.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 7",
+        "observation": "You arrive at cabinet 7. The cabinet 7 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 9",
+        "observation": "You arrive at cabinet 9. The cabinet 9 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to fridge 1",
+        "observation": "You arrive at fridge 1. The fridge 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 3",
+        "observation": "You arrive at cabinet 3. The cabinet 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 1",
+        "observation": "You arrive at cabinet 1. The cabinet 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 10",
+        "observation": "You arrive at cabinet 10. The cabinet 10 is closed.",
+        "success": false
+      },
+      {
+        "action": "open cabinet 10",
+        "observation": "You open the cabinet 10. The cabinet 10 is open. In it, you see a soapbottle 2.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_3",
+    "task_description": "Your task is to: clean some egg and put it in sidetable.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:18:10.429755",
+    "steps": [
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see a lettuce 1.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 3",
+        "observation": "You arrive at cabinet 3. The cabinet 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 2",
+        "observation": "You arrive at stoveburner 2. On the stoveburner 2, you see a pot 1.",
+        "success": false
+      },
+      {
+        "action": "go to diningtable 1",
+        "observation": "You arrive at diningtable 1. On the diningtable 1, you see a potato 2, and a saltshaker 1.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the diningtable 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 3",
+        "observation": "You arrive at stoveburner 3. On the stoveburner 3, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 1",
+        "observation": "You arrive at stoveburner 1. On the stoveburner 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "examine stoveburner 1",
+        "observation": "On the stoveburner 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to diningtable 1",
+        "observation": "You arrive at diningtable 1. On the diningtable 1, you see a potato 2, and a saltshaker 1.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 1",
+        "observation": "You arrive at stoveburner 1. On the stoveburner 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 4",
+        "observation": "You arrive at stoveburner 4. On the stoveburner 4, you see a pot 2.",
+        "success": false
+      },
+      {
+        "action": "go to diningtable 3",
+        "observation": "You arrive at diningtable 3. On the diningtable 3, you see a bread 1, a dishsponge 3, a egg 2, a knife 2, a lettuce 2, a plate 2, and a potato 3.",
+        "success": false
+      },
+      {
+        "action": "go to diningtable 1",
+        "observation": "You arrive at diningtable 1. On the diningtable 1, you see a potato 2, and a saltshaker 1.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the diningtable 1. Next to it, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_4",
+    "task_description": "Your task is to: find two soapbottle and put them in cabinet.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:18:12.179631",
+    "steps": [
+      {
+        "action": "go to bathtubbasin 1",
+        "observation": "You arrive at bathtubbasin 1. On the bathtubbasin 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see a spraybottle 2.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "examine garbagecan 1",
+        "observation": "On the garbagecan 1, you see a spraybottle 2.",
+        "success": false
+      },
+      {
+        "action": "examine garbagecan 1",
+        "observation": "On the garbagecan 1, you see a spraybottle 2.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 1",
+        "observation": "You arrive at cabinet 1. The cabinet 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to toilet 1",
+        "observation": "You arrive at toilet 1. On the toilet 1, you see a toiletpaper 1.",
+        "success": false
+      },
+      {
+        "action": "take toiletpaper 1 from toilet 1",
+        "observation": "You pick up the toiletpaper 1 from the toilet 1.",
+        "success": false
+      },
+      {
+        "action": "go to toiletpaperhanger 1",
+        "observation": "You arrive at toiletpaperhanger 1. On the toiletpaperhanger 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to towelholder 1",
+        "observation": "You arrive at towelholder 1. On the towelholder 1, you see a towel 1.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 1",
+        "observation": "You arrive at countertop 1. On the countertop 1, you see a candle 1, a sink 1, a soapbottle 2, a soapbottle 1, and a spraybottle 1.",
+        "success": false
+      },
+      {
+        "action": "move toiletpaper 1 to countertop 1",
+        "observation": "You move the toiletpaper 1 to the countertop 1.",
+        "success": false
+      },
+      {
+        "action": "go to toilet 1",
+        "observation": "You arrive at toilet 1. On the toilet 1, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_5",
+    "task_description": "Your task is to: put two pot in shelf.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:18:16.563832",
+    "steps": [
+      {
+        "action": "go to cabinet 2",
+        "observation": "You arrive at cabinet 2. The cabinet 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 3",
+        "observation": "You arrive at cabinet 3. The cabinet 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the drawer 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 6",
+        "observation": "You arrive at drawer 6. The drawer 6 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 3",
+        "observation": "You arrive at drawer 3. The drawer 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 6",
+        "observation": "You arrive at cabinet 6. The cabinet 6 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 3",
+        "observation": "You arrive at countertop 3. On the countertop 3, you see a apple 2, a apple 1, a book 1, a bread 2, a butterknife 2, a creditcard 1, a lettuce 3, a le",
+        "success": false
+      },
+      {
+        "action": "go to drawer 4",
+        "observation": "You arrive at drawer 4. The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see a cup 1, a dishsponge 1, a egg 1, a fork 2, a glassbottle 3, a kettle 1, and a mug 2.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 2",
+        "observation": "You arrive at stoveburner 2. On the stoveburner 2, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 3",
+        "observation": "You arrive at shelf 3. On the shelf 3, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 3",
+        "observation": "You arrive at stoveburner 3. On the stoveburner 3, you see a kettle 2.",
+        "success": false
+      },
+      {
+        "action": "go to microwave 1",
+        "observation": "You arrive at microwave 1. The microwave 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 3",
+        "observation": "You arrive at cabinet 3. The cabinet 3 is closed.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_6",
+    "task_description": "Your task is to: put two watch in shelf.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:18:19.984145",
+    "steps": [
+      {
+        "action": "go to sidetable 1",
+        "observation": "You arrive at sidetable 1. On the sidetable 1, you see a alarmclock 3, a cellphone 2, a creditcard 3, a creditcard 1, and a pencil 3.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 1",
+        "observation": "You arrive at shelf 1. On the shelf 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 3",
+        "observation": "You arrive at shelf 3. On the shelf 3, you see a keychain 2.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to shelf 12",
+        "observation": "You arrive at shelf 12. On the shelf 12, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 10",
+        "observation": "You arrive at shelf 10. On the shelf 10, you see a mug 2.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 5",
+        "observation": "You arrive at shelf 5. On the shelf 5, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the garbagecan 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 13",
+        "observation": "You arrive at shelf 13. On the shelf 13, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to bed 1",
+        "observation": "You arrive at bed 1. On the bed 1, you see a book 1, a laptop 1, a pillow 1, and a teddybear 1.",
+        "success": false
+      },
+      {
+        "action": "take teddybear 1 from bed 1",
+        "observation": "You pick up the teddybear 1 from the bed 1.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 12",
+        "observation": "You arrive at shelf 12. On the shelf 12, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_7",
+    "task_description": "Your task is to: put two spoon in sidetable.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:18:22.930955",
+    "steps": [
+      {
+        "action": "go to drawer 3",
+        "observation": "You arrive at drawer 3. The drawer 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 3",
+        "observation": "You arrive at stoveburner 3. On the stoveburner 3, you see a pan 1.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 2",
+        "observation": "You arrive at drawer 2. The drawer 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 3",
+        "observation": "You arrive at stoveburner 3. On the stoveburner 3, you see a pan 1.",
+        "success": false
+      },
+      {
+        "action": "go to sidetable 1",
+        "observation": "You arrive at sidetable 1. On the sidetable 1, you see a saltshaker 1, and a tomato 1.",
+        "success": false
+      },
+      {
+        "action": "go to fridge 1",
+        "observation": "You arrive at fridge 1. The fridge 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 1",
+        "observation": "You arrive at cabinet 1. The cabinet 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to drawer 8",
+        "observation": "You arrive at drawer 8. On the drawer 8, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 7",
+        "observation": "You arrive at drawer 7. On the drawer 7, you see a fork 1.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 2",
+        "observation": "You arrive at stoveburner 2. On the stoveburner 2, you see a kettle 3.",
+        "success": false
+      },
+      {
+        "action": "go to microwave 1",
+        "observation": "You arrive at microwave 1. The microwave 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 1",
+        "observation": "You arrive at cabinet 1. The cabinet 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see a spoon 1.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_8",
+    "task_description": "Your task is to: put two toiletpaper in drawer.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:18:25.179293",
+    "steps": [
+      {
+        "action": "go to drawer 4",
+        "observation": "You arrive at drawer 4. The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 6",
+        "observation": "You arrive at drawer 6. The drawer 6 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 3",
+        "observation": "You arrive at drawer 3. The drawer 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 2",
+        "observation": "You arrive at drawer 2. The drawer 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see a toiletpaper 1.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "take toiletpaper 1 from garbagecan 1",
+        "observation": "You pick up the toiletpaper 1 from the garbagecan 1.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see a sink 1.",
+        "success": false
+      },
+      {
+        "action": "go to towelholder 1",
+        "observation": "You arrive at towelholder 1. On the towelholder 1, you see a towel 1.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 4",
+        "observation": "You arrive at drawer 4. The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "open drawer 4",
+        "observation": "You open the drawer 4. The drawer 4 is open. In it, you see a dishsponge 1.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 6",
+        "observation": "You arrive at drawer 6. The drawer 6 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_9",
+    "task_description": "Your task is to: put a cool mug in coffeemachine.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:18:29.702675",
+    "steps": [
+      {
+        "action": "go to cabinet 5",
+        "observation": "You arrive at cabinet 5. The cabinet 5 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine cabinet 5",
+        "observation": "The cabinet 5 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to microwave 1",
+        "observation": "You arrive at microwave 1. The microwave 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 1",
+        "observation": "You arrive at countertop 1. On the countertop 1, you see a butterknife 1, a knife 2, a knife 1, a peppershaker 2, a peppershaker 1, and a spoon 1.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 9",
+        "observation": "You arrive at drawer 9. The drawer 9 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 1",
+        "observation": "You arrive at cabinet 1. The cabinet 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 5",
+        "observation": "You arrive at drawer 5. The drawer 5 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 3",
+        "observation": "You arrive at stoveburner 3. On the stoveburner 3, you see a pot 2.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 9",
+        "observation": "You arrive at drawer 9. The drawer 9 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 5",
+        "observation": "You arrive at drawer 5. The drawer 5 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 6",
+        "observation": "You arrive at cabinet 6. The cabinet 6 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 3",
+        "observation": "You arrive at cabinet 3. The cabinet 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine cabinet 3",
+        "observation": "The cabinet 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to coffeemachine 1",
+        "observation": "You arrive at coffeemachine 1. On the coffeemachine 1, you see a mug 2.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 2",
+        "observation": "You arrive at cabinet 2. The cabinet 2 is closed.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_10",
+    "task_description": "Your task is to: clean some potato and put it in countertop.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:18:35.952432",
+    "steps": [
+      {
+        "action": "go to stoveburner 2",
+        "observation": "You arrive at stoveburner 2. On the stoveburner 2, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 14",
+        "observation": "You arrive at cabinet 14. The cabinet 14 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 10",
+        "observation": "You arrive at cabinet 10. The cabinet 10 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 13",
+        "observation": "You arrive at cabinet 13. The cabinet 13 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to coffeemachine 1",
+        "observation": "You arrive at coffeemachine 1. On the coffeemachine 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see a apple 1, a egg 1, a potato 1, and a soapbottle 1.",
+        "success": false
+      },
+      {
+        "action": "go to microwave 1",
+        "observation": "You arrive at microwave 1. The microwave 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 1",
+        "observation": "You arrive at shelf 1. On the shelf 1, you see a peppershaker 1.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 11",
+        "observation": "You arrive at cabinet 11. The cabinet 11 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 18",
+        "observation": "You arrive at cabinet 18. The cabinet 18 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 10",
+        "observation": "You arrive at cabinet 10. The cabinet 10 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to fridge 1",
+        "observation": "You arrive at fridge 1. The fridge 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to toaster 1",
+        "observation": "You arrive at toaster 1. On the toaster 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 8",
+        "observation": "You arrive at cabinet 8. The cabinet 8 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to coffeemachine 1",
+        "observation": "You arrive at coffeemachine 1. On the coffeemachine 1, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_11",
+    "task_description": "Your task is to: clean some bowl and put it in diningtable.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:18:40.465529",
+    "steps": [
+      {
+        "action": "go to stoveburner 1",
+        "observation": "You arrive at stoveburner 1. On the stoveburner 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. On the drawer 1, you see a peppershaker 1.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 10",
+        "observation": "You arrive at cabinet 10. On the cabinet 10, you see a peppershaker 2.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 2",
+        "observation": "You arrive at drawer 2. The drawer 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. On the drawer 1, you see a peppershaker 1.",
+        "success": false
+      },
+      {
+        "action": "go to coffeemachine 1",
+        "observation": "You arrive at coffeemachine 1. On the coffeemachine 1, you see a mug 1.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 3",
+        "observation": "You arrive at stoveburner 3. On the stoveburner 3, you see a pan 1.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 1",
+        "observation": "You arrive at stoveburner 1. On the stoveburner 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "examine stoveburner 1",
+        "observation": "On the stoveburner 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 3",
+        "observation": "You arrive at cabinet 3. The cabinet 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to microwave 1",
+        "observation": "You arrive at microwave 1. The microwave 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "open microwave 1",
+        "observation": "You open the microwave 1. The microwave 1 is open. In it, you see a egg 2, and a potato 2.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 2",
+        "observation": "You arrive at cabinet 2. The cabinet 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to toaster 1",
+        "observation": "You arrive at toaster 1. On the toaster 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the toaster 1. Next to it, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_12",
+    "task_description": "Your task is to: put a cool bread in diningtable.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:18:43.967453",
+    "steps": [
+      {
+        "action": "go to cabinet 1",
+        "observation": "You arrive at cabinet 1. On the cabinet 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the cabinet 1, and garbagecan 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 2",
+        "observation": "You arrive at stoveburner 2. On the stoveburner 2, you see a pot 1.",
+        "success": false
+      },
+      {
+        "action": "go to diningtable 2",
+        "observation": "You arrive at diningtable 2. On the diningtable 2, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 8",
+        "observation": "You arrive at cabinet 8. On the cabinet 8, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 2",
+        "observation": "You arrive at drawer 2. The drawer 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 3",
+        "observation": "You arrive at cabinet 3. On the cabinet 3, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 2",
+        "observation": "You arrive at countertop 2. On the countertop 2, you see a lettuce 2, a plate 1, and a saltshaker 1.",
+        "success": false
+      },
+      {
+        "action": "go to microwave 1",
+        "observation": "You arrive at microwave 1. The microwave 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 2",
+        "observation": "You arrive at stoveburner 2. On the stoveburner 2, you see a pot 1.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 5",
+        "observation": "You arrive at cabinet 5. The cabinet 5 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see a egg 2, a egg 1, a mug 3, and a plate 1.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_13",
+    "task_description": "Your task is to: put two dishsponge in toilet.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:18:46.358581",
+    "steps": [
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to towelholder 2",
+        "observation": "You arrive at towelholder 2. On the towelholder 2, you see a towel 2.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 1",
+        "observation": "You arrive at cabinet 1. The cabinet 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 1",
+        "observation": "You arrive at countertop 1. On the countertop 1, you see a mirror 1, a showerglass 1, a soapbar 3, a soapbar 1, and a toiletpaper 2.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 1",
+        "observation": "You arrive at cabinet 1. The cabinet 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 3",
+        "observation": "You arrive at cabinet 3. The cabinet 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 1",
+        "observation": "You arrive at cabinet 1. The cabinet 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to towelholder 2",
+        "observation": "You arrive at towelholder 2. On the towelholder 2, you see a towel 2.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 4",
+        "observation": "You arrive at cabinet 4. The cabinet 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 2",
+        "observation": "You arrive at cabinet 2. The cabinet 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 1",
+        "observation": "You arrive at shelf 1. On the shelf 1, you see a dishsponge 1, a papertowelroll 1, a showerglass 1, a soapbottle 1, and a spraybottle 1.",
+        "success": false
+      },
+      {
+        "action": "take soapbottle 1 from shelf 1",
+        "observation": "You pick up the soapbottle 1 from the shelf 1.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_14",
+    "task_description": "Your task is to: put two vase in coffeetable.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:18:48.045736",
+    "steps": [
+      {
+        "action": "go to drawer 4",
+        "observation": "You arrive at drawer 4. The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to sofa 1",
+        "observation": "You arrive at sofa 1. On the sofa 1, you see a creditcard 3, a newspaper 1, and a pillow 1.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the sofa 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to coffeetable 1",
+        "observation": "You arrive at coffeetable 1. On the coffeetable 1, you see a book 1, a laptop 2, a remotecontrol 3, and a remotecontrol 2.",
+        "success": false
+      },
+      {
+        "action": "go to sidetable 1",
+        "observation": "You arrive at sidetable 1. On the sidetable 1, you see a houseplant 1.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "examine sidetable 1",
+        "observation": "On the sidetable 1, you see a houseplant 1.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the sidetable 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 3",
+        "observation": "You arrive at drawer 3. The drawer 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to dresser 1",
+        "observation": "You arrive at dresser 1. On the dresser 1, you see a laptop 1, a pen 2, a pen 1, a statue 1, a vase 4, a vase 3, a vase 2, a vase 1, and a watch 2.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to dresser 1",
+        "observation": "You arrive at dresser 1. On the dresser 1, you see a laptop 1, a pen 2, a pen 1, a statue 1, a vase 4, a vase 3, a vase 2, a vase 1, and a watch 2.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_15",
+    "task_description": "Your task is to: put two keychain in armchair.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:18:49.589248",
+    "steps": [
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to sidetable 3",
+        "observation": "You arrive at sidetable 3. On the sidetable 3, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to armchair 1",
+        "observation": "You arrive at armchair 1. On the armchair 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 7",
+        "observation": "You arrive at drawer 7. The drawer 7 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to armchair 1",
+        "observation": "You arrive at armchair 1. On the armchair 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 7",
+        "observation": "You arrive at drawer 7. The drawer 7 is closed.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 5",
+        "observation": "You arrive at drawer 5. The drawer 5 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 4",
+        "observation": "You arrive at drawer 4. The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "open drawer 3",
+        "observation": "You open the drawer 3. The drawer 3 is open. In it, you see a watch 2.",
+        "success": false
+      },
+      {
+        "action": "go to armchair 1",
+        "observation": "You arrive at armchair 1. On the armchair 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to sidetable 3",
+        "observation": "You arrive at sidetable 3. On the sidetable 3, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 5",
+        "observation": "You arrive at drawer 5. The drawer 5 is closed.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_16",
+    "task_description": "Your task is to: find two tomato and put them in countertop.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:18:54.298137",
+    "steps": [
+      {
+        "action": "go to countertop 1",
+        "observation": "You arrive at countertop 1. On the countertop 1, you see a bowl 3, a bread 1, a butterknife 1, a knife 1, a lettuce 2, a pan 1, a peppershaker 1, a po",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 6",
+        "observation": "You arrive at cabinet 6. The cabinet 6 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 20",
+        "observation": "You arrive at cabinet 20. On the cabinet 20, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 2",
+        "observation": "You arrive at countertop 2. On the countertop 2, you see a butterknife 2, a saltshaker 3, a soapbottle 2, a spatula 3, and a spoon 3.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 10",
+        "observation": "You arrive at cabinet 10. The cabinet 10 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 16",
+        "observation": "You arrive at cabinet 16. On the cabinet 16, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to toaster 1",
+        "observation": "You arrive at toaster 1. On the toaster 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see a potato 1.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 6",
+        "observation": "You arrive at cabinet 6. The cabinet 6 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 3",
+        "observation": "You arrive at stoveburner 3. On the stoveburner 3, you see a pan 2.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 2",
+        "observation": "You arrive at drawer 2. On the drawer 2, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see a potato 1.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 19",
+        "observation": "You arrive at cabinet 19. On the cabinet 19, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_17",
+    "task_description": "Your task is to: find two saltshaker and put them in sidetable.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:18:58.298878",
+    "steps": [
+      {
+        "action": "go to stoveburner 4",
+        "observation": "You arrive at stoveburner 4. On the stoveburner 4, you see a pot 1.",
+        "success": false
+      },
+      {
+        "action": "go to diningtable 1",
+        "observation": "You arrive at diningtable 1. On the diningtable 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 2",
+        "observation": "You arrive at stoveburner 2. On the stoveburner 2, you see a pan 2.",
+        "success": false
+      },
+      {
+        "action": "examine stoveburner 2",
+        "observation": "On the stoveburner 2, you see a pan 2.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 1",
+        "observation": "You arrive at cabinet 1. The cabinet 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 2",
+        "observation": "You arrive at stoveburner 2. On the stoveburner 2, you see a pan 2.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 4",
+        "observation": "You arrive at stoveburner 4. On the stoveburner 4, you see a pot 1.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 1",
+        "observation": "You arrive at countertop 1. On the countertop 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 2",
+        "observation": "You arrive at stoveburner 2. On the stoveburner 2, you see a pan 2.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "open drawer 1",
+        "observation": "You open the drawer 1. The drawer 1 is open. In it, you see a dishsponge 2, a fork 2, a fork 1, and a knife 1.",
+        "success": false
+      },
+      {
+        "action": "go to sidetable 1",
+        "observation": "You arrive at sidetable 1. On the sidetable 1, you see a apple 1, a butterknife 2, a butterknife 1, and a dishsponge 1.",
+        "success": false
+      },
+      {
+        "action": "take butterknife 1 from sidetable 1",
+        "observation": "You pick up the butterknife 1 from the sidetable 1.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_18",
+    "task_description": "Your task is to: put a cool lettuce in garbagecan.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:02.373319",
+    "steps": [
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 3",
+        "observation": "You arrive at shelf 3. On the shelf 3, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 1",
+        "observation": "You arrive at stoveburner 1. On the stoveburner 1, you see a pan 1.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 2",
+        "observation": "You arrive at stoveburner 2. On the stoveburner 2, you see a pan 1.",
+        "success": false
+      },
+      {
+        "action": "go to coffeemachine 1",
+        "observation": "You arrive at coffeemachine 1. On the coffeemachine 1, you see a mug 1.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the coffeemachine 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to toaster 1",
+        "observation": "You arrive at toaster 1. On the toaster 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 3",
+        "observation": "You arrive at shelf 3. On the shelf 3, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 1",
+        "observation": "You arrive at stoveburner 1. On the stoveburner 1, you see a pan 1.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 2",
+        "observation": "You arrive at shelf 2. On the shelf 2, you see a plate 2.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 2",
+        "observation": "You arrive at stoveburner 2. On the stoveburner 2, you see a pan 1.",
+        "success": false
+      },
+      {
+        "action": "go to coffeemachine 1",
+        "observation": "You arrive at coffeemachine 1. On the coffeemachine 1, you see a mug 1.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 1",
+        "observation": "You arrive at countertop 1. On the countertop 1, you see a bowl 2, a bowl 1, a butterknife 3, a butterknife 2, a butterknife 1, a dishsponge 1, a knif",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_19",
+    "task_description": "Your task is to: cool some potato and put it in microwave.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:08.960327",
+    "steps": [
+      {
+        "action": "go to drawer 11",
+        "observation": "You arrive at drawer 11. The drawer 11 is closed.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 9",
+        "observation": "You arrive at cabinet 9. The cabinet 9 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 6",
+        "observation": "You arrive at drawer 6. On the drawer 6, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 3",
+        "observation": "You arrive at countertop 3. On the countertop 3, you see a bread 2, a bread 1, a fork 1, a papertowelroll 1, a saltshaker 3, a soapbottle 1, and a win",
+        "success": false
+      },
+      {
+        "action": "take saltshaker 3 from countertop 3",
+        "observation": "You pick up the saltshaker 3 from the countertop 3.",
+        "success": false
+      },
+      {
+        "action": "go to toaster 1",
+        "observation": "You arrive at toaster 1. On the toaster 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to fridge 1",
+        "observation": "You arrive at fridge 1. The fridge 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine saltshaker 3",
+        "observation": "There's nothing special about saltshaker 3.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 22",
+        "observation": "You arrive at cabinet 22. On the cabinet 22, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 9",
+        "observation": "You arrive at drawer 9. The drawer 9 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 6",
+        "observation": "You arrive at cabinet 6. The cabinet 6 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 3",
+        "observation": "You arrive at countertop 3. On the countertop 3, you see a bread 2, a bread 1, a fork 1, a papertowelroll 1, a soapbottle 1, and a winebottle 3.",
+        "success": false
+      },
+      {
+        "action": "go to toaster 1",
+        "observation": "You arrive at toaster 1. On the toaster 1, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_20",
+    "task_description": "Your task is to: put two remotecontrol in armchair.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:13.541137",
+    "steps": [
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to sidetable 2",
+        "observation": "You arrive at sidetable 2. On the sidetable 2, you see a creditcard 3, a statue 1, and a watch 3.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the sidetable 2. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to coffeetable 1",
+        "observation": "You arrive at coffeetable 1. On the coffeetable 1, you see a creditcard 1, a laptop 1, a pen 2, a remotecontrol 2, a remotecontrol 1, a vase 4, a watc",
+        "success": false
+      },
+      {
+        "action": "take watch 1 from coffeetable 1",
+        "observation": "You pick up the watch 1 from the coffeetable 1.",
+        "success": false
+      },
+      {
+        "action": "examine coffeetable 1",
+        "observation": "On the coffeetable 1, you see a creditcard 1, a laptop 1, a pen 2, a remotecontrol 2, a remotecontrol 1, a vase 4, and a watch 2.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 3",
+        "observation": "You arrive at drawer 3. The drawer 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the drawer 3. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to coffeetable 1",
+        "observation": "You arrive at coffeetable 1. On the coffeetable 1, you see a creditcard 1, a laptop 1, a pen 2, a remotecontrol 2, a remotecontrol 1, a vase 4, and a ",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are carrying: a watch 1.",
+        "success": false
+      },
+      {
+        "action": "go to armchair 1",
+        "observation": "You arrive at armchair 1. On the armchair 1, you see a book 1.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_21",
+    "task_description": "Your task is to: look at alarmclock under the desklamp.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:15.510257",
+    "steps": [
+      {
+        "action": "go to bed 1",
+        "observation": "You arrive at bed 1. On the bed 1, you see a cellphone 3, a laptop 2, a pillow 1, and a teddybear 1.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 1",
+        "observation": "You arrive at shelf 1. On the shelf 1, you see a cd 1, and a cellphone 1.",
+        "success": false
+      },
+      {
+        "action": "go to bed 1",
+        "observation": "You arrive at bed 1. On the bed 1, you see a cellphone 3, a laptop 2, a pillow 1, and a teddybear 1.",
+        "success": false
+      },
+      {
+        "action": "take laptop 2 from bed 1",
+        "observation": "You pick up the laptop 2 from the bed 1.",
+        "success": false
+      },
+      {
+        "action": "examine bed 1",
+        "observation": "On the bed 1, you see a cellphone 3, a pillow 1, and a teddybear 1.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to shelf 4",
+        "observation": "You arrive at shelf 4. On the shelf 4, you see a pen 2.",
+        "success": false
+      },
+      {
+        "action": "examine shelf 4",
+        "observation": "On the shelf 4, you see a pen 2.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the shelf 4. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the shelf 4. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 1",
+        "observation": "You arrive at shelf 1. On the shelf 1, you see a cd 1, and a cellphone 1.",
+        "success": false
+      },
+      {
+        "action": "go to desk 1",
+        "observation": "You arrive at desk 1. On the desk 1, you see a book 1, and a laptop 1.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to bed 1",
+        "observation": "You arrive at bed 1. On the bed 1, you see a cellphone 3, a pillow 1, and a teddybear 1.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 1",
+        "observation": "You arrive at shelf 1. On the shelf 1, you see a cd 1, and a cellphone 1.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_22",
+    "task_description": "Your task is to: put a clean ladle in cabinet.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:19.180512",
+    "steps": [
+      {
+        "action": "go to cabinet 8",
+        "observation": "You arrive at cabinet 8. On the cabinet 8, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 2",
+        "observation": "You arrive at cabinet 2. The cabinet 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 3",
+        "observation": "You arrive at stoveburner 3. On the stoveburner 3, you see a pot 1.",
+        "success": false
+      },
+      {
+        "action": "go to fridge 1",
+        "observation": "You arrive at fridge 1. The fridge 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 13",
+        "observation": "You arrive at cabinet 13. On the cabinet 13, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the cabinet 13. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 4",
+        "observation": "You arrive at stoveburner 4. On the stoveburner 4, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to toaster 1",
+        "observation": "You arrive at toaster 1. On the toaster 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "take saltshaker 2 from countertop 1",
+        "observation": "You pick up the saltshaker 2 from the countertop 1.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 4",
+        "observation": "You arrive at stoveburner 4. On the stoveburner 4, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 1",
+        "observation": "You arrive at stoveburner 1. On the stoveburner 1, you see a pan 1.",
+        "success": false
+      },
+      {
+        "action": "go to coffeemachine 1",
+        "observation": "You arrive at coffeemachine 1. On the coffeemachine 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see a dishsponge 1.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 8",
+        "observation": "You arrive at cabinet 8. On the cabinet 8, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_23",
+    "task_description": "Your task is to: put a clean lettuce in sidetable.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:22.498259",
+    "steps": [
+      {
+        "action": "go to diningtable 1",
+        "observation": "You arrive at diningtable 1. On the diningtable 1, you see a fork 1, and a potato 2.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see a apple 1, and a soapbottle 1.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 1",
+        "observation": "You arrive at stoveburner 1. On the stoveburner 1, you see a pan 2.",
+        "success": false
+      },
+      {
+        "action": "go to diningtable 3",
+        "observation": "You arrive at diningtable 3. On the diningtable 3, you see a bowl 2, a bread 1, a butterknife 2, a cup 2, a lettuce 1, a saltshaker 2, a soapbottle 2,",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 4",
+        "observation": "You arrive at cabinet 4. The cabinet 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the cabinet 4. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to sidetable 1",
+        "observation": "You arrive at sidetable 1. On the sidetable 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to diningtable 3",
+        "observation": "You arrive at diningtable 3. On the diningtable 3, you see a bowl 2, a bread 1, a butterknife 2, a cup 2, a lettuce 1, a saltshaker 2, a soapbottle 2,",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see a apple 1, and a soapbottle 1.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the garbagecan 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to diningtable 2",
+        "observation": "You arrive at diningtable 2. On the diningtable 2, you see a bowl 1, a cup 1, and a knife 1.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 4",
+        "observation": "You arrive at stoveburner 4. On the stoveburner 4, you see a pot 2.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 1",
+        "observation": "You arrive at countertop 1. On the countertop 1, you see a butterknife 1, a dishsponge 1, and a peppershaker 1.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 1",
+        "observation": "You arrive at cabinet 1. The cabinet 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to diningtable 3",
+        "observation": "You arrive at diningtable 3. On the diningtable 3, you see a bowl 2, a bread 1, a butterknife 2, a cup 2, a lettuce 1, a saltshaker 2, a soapbottle 2,",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_24",
+    "task_description": "Your task is to: put a soapbottle in drawer.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:24.895704",
+    "steps": [
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to drawer 2",
+        "observation": "You arrive at drawer 2. The drawer 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to bathtubbasin 1",
+        "observation": "You arrive at bathtubbasin 1. On the bathtubbasin 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 8",
+        "observation": "You arrive at drawer 8. The drawer 8 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to bathtubbasin 1",
+        "observation": "You arrive at bathtubbasin 1. On the bathtubbasin 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 2",
+        "observation": "You arrive at drawer 2. The drawer 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to handtowelholder 3",
+        "observation": "You arrive at handtowelholder 3. On the handtowelholder 3, you see a handtowel 1.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to drawer 3",
+        "observation": "You arrive at drawer 3. The drawer 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 4",
+        "observation": "You arrive at drawer 4. The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 5",
+        "observation": "You arrive at drawer 5. The drawer 5 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 6",
+        "observation": "You arrive at drawer 6. The drawer 6 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to towelholder 1",
+        "observation": "You arrive at towelholder 1. On the towelholder 1, you see a towel 1.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_25",
+    "task_description": "Your task is to: put some keychain on armchair.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:27.110266",
+    "steps": [
+      {
+        "action": "go to sidetable 1",
+        "observation": "You arrive at sidetable 1. On the sidetable 1, you see a keychain 1.",
+        "success": false
+      },
+      {
+        "action": "go to sidetable 2",
+        "observation": "You arrive at sidetable 2. On the sidetable 2, you see a statue 1.",
+        "success": false
+      },
+      {
+        "action": "go to sidetable 3",
+        "observation": "You arrive at sidetable 3. On the sidetable 3, you see a houseplant 1.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 4",
+        "observation": "You arrive at drawer 4. The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine drawer 4",
+        "observation": "The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 6",
+        "observation": "You arrive at drawer 6. The drawer 6 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to sofa 1",
+        "observation": "You arrive at sofa 1. On the sofa 1, you see a box 2, a keychain 2, and a pillow 1.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 8",
+        "observation": "You arrive at drawer 8. The drawer 8 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 12",
+        "observation": "You arrive at drawer 12. The drawer 12 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 11",
+        "observation": "You arrive at drawer 11. The drawer 11 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 8",
+        "observation": "You arrive at drawer 8. The drawer 8 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine drawer 7",
+        "observation": "The drawer 7 is closed.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_26",
+    "task_description": "Your task is to: put two newspaper in garbagecan.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:29.575480",
+    "steps": [
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to drawer 3",
+        "observation": "You arrive at drawer 3. The drawer 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to sidetable 2",
+        "observation": "You arrive at sidetable 2. On the sidetable 2, you see a creditcard 1, a houseplant 1, and a newspaper 2.",
+        "success": false
+      },
+      {
+        "action": "take creditcard 1 from sidetable 2",
+        "observation": "You pick up the creditcard 1 from the sidetable 2.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the sidetable 2. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 4",
+        "observation": "You arrive at drawer 4. The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine drawer 4",
+        "observation": "The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are carrying: a creditcard 1.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 2",
+        "observation": "You arrive at drawer 2. The drawer 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to coffeetable 1",
+        "observation": "You arrive at coffeetable 1. On the coffeetable 1, you see a box 1, a cellphone 2, a keychain 3, a laptop 2, a remotecontrol 3, and a remotecontrol 2.",
+        "success": false
+      },
+      {
+        "action": "go to dresser 1",
+        "observation": "You arrive at dresser 1. On the dresser 1, you see a newspaper 1, a statue 1, and a television 1.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 4",
+        "observation": "You arrive at drawer 4. The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine creditcard 1",
+        "observation": "There's nothing special about creditcard 1.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 3",
+        "observation": "You arrive at drawer 3. The drawer 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "open drawer 3",
+        "observation": "You open the drawer 3. The drawer 3 is open. In it, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_27",
+    "task_description": "Your task is to: put some pen on shelf.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:30.973540",
+    "steps": [
+      {
+        "action": "go to cabinet 2",
+        "observation": "You arrive at cabinet 2. The cabinet 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 1",
+        "observation": "You arrive at shelf 1. On the shelf 1, you see a creditcard 3, and a creditcard 1.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the drawer 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 2",
+        "observation": "You arrive at cabinet 2. The cabinet 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 1",
+        "observation": "You arrive at shelf 1. On the shelf 1, you see a creditcard 3, and a creditcard 1.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the cabinet 3, and shelf 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "open cabinet 3",
+        "observation": "You open the cabinet 3. The cabinet 3 is open. In it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 2",
+        "observation": "You arrive at cabinet 2. The cabinet 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "open cabinet 2",
+        "observation": "You open the cabinet 2. The cabinet 2 is open. In it, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_28",
+    "task_description": "Your task is to: find two cloth and put them in toilet.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:32.356102",
+    "steps": [
+      {
+        "action": "go to cabinet 2",
+        "observation": "You arrive at cabinet 2. The cabinet 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine cabinet 2",
+        "observation": "The cabinet 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine cabinet 2",
+        "observation": "The cabinet 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 3",
+        "observation": "You arrive at cabinet 3. The cabinet 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to countertop 1",
+        "observation": "You arrive at countertop 1. On the countertop 1, you see a candle 1, a soapbottle 2, and a spraybottle 2.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 2",
+        "observation": "You arrive at cabinet 2. The cabinet 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "open cabinet 2",
+        "observation": "You open the cabinet 2. The cabinet 2 is open. In it, you see a cloth 3.",
+        "success": false
+      },
+      {
+        "action": "examine cabinet 2",
+        "observation": "The cabinet 2 is open. In it, you see a cloth 3.",
+        "success": false
+      },
+      {
+        "action": "go to toiletpaperhanger 1",
+        "observation": "You arrive at toiletpaperhanger 1. On the toiletpaperhanger 1, you see a toiletpaper 2.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 1",
+        "observation": "You arrive at countertop 1. On the countertop 1, you see a candle 1, a soapbottle 2, and a spraybottle 2.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 2",
+        "observation": "You arrive at sinkbasin 2. On the sinkbasin 2, you see a soapbar 1.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_29",
+    "task_description": "Your task is to: put a hot plate in fridge.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:36.937001",
+    "steps": [
+      {
+        "action": "go to cabinet 9",
+        "observation": "You arrive at cabinet 9. The cabinet 9 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see a glassbottle 1, and a soapbottle 3.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 2",
+        "observation": "You arrive at stoveburner 2. On the stoveburner 2, you see a pot 2.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 5",
+        "observation": "You arrive at drawer 5. The drawer 5 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 8",
+        "observation": "You arrive at cabinet 8. The cabinet 8 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 1",
+        "observation": "You arrive at cabinet 1. The cabinet 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 3",
+        "observation": "You arrive at shelf 3. On the shelf 3, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to toaster 1",
+        "observation": "You arrive at toaster 1. On the toaster 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the toaster 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to microwave 1",
+        "observation": "You arrive at microwave 1. The microwave 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine microwave 1",
+        "observation": "The microwave 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 7",
+        "observation": "You arrive at cabinet 7. The cabinet 7 is closed.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to toaster 1",
+        "observation": "You arrive at toaster 1. On the toaster 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 8",
+        "observation": "You arrive at drawer 8. On the drawer 8, you see a saltshaker 1.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_30",
+    "task_description": "Your task is to: put two cd in shelf.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:40.325379",
+    "steps": [
+      {
+        "action": "go to shelf 12",
+        "observation": "You arrive at shelf 12. On the shelf 12, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to bed 1",
+        "observation": "You arrive at bed 1. On the bed 1, you see a cellphone 1, a laptop 1, and a pillow 1.",
+        "success": false
+      },
+      {
+        "action": "take laptop 1 from bed 1",
+        "observation": "You pick up the laptop 1 from the bed 1.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the bed 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the bed 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the bed 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 2",
+        "observation": "You arrive at shelf 2. On the shelf 2, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 4",
+        "observation": "You arrive at drawer 4. The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 2",
+        "observation": "You arrive at shelf 2. On the shelf 2, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to desk 1",
+        "observation": "You arrive at desk 1. On the desk 1, you see a alarmclock 3, a book 1, a cd 3, a desklamp 1, and a vase 3.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 9",
+        "observation": "You arrive at shelf 9. On the shelf 9, you see a mug 1.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 3",
+        "observation": "You arrive at shelf 3. On the shelf 3, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are carrying: a laptop 1.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 12",
+        "observation": "You arrive at shelf 12. On the shelf 12, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 5",
+        "observation": "You arrive at drawer 5. The drawer 5 is closed.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_31",
+    "task_description": "Your task is to: examine the cellphone with the desklamp.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:42.352144",
+    "steps": [
+      {
+        "action": "go to shelf 1",
+        "observation": "You arrive at shelf 1. On the shelf 1, you see a pen 1.",
+        "success": false
+      },
+      {
+        "action": "go to desk 1",
+        "observation": "You arrive at desk 1. On the desk 1, you see a bowl 2, a bowl 1, a cellphone 4, a cellphone 3, a cellphone 2, a cellphone 1, a creditcard 1, a desklam",
+        "success": false
+      },
+      {
+        "action": "take pencil 1 from desk 1",
+        "observation": "You pick up the pencil 1 from the desk 1.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are carrying: a pencil 1.",
+        "success": false
+      },
+      {
+        "action": "go to sidetable 1",
+        "observation": "You arrive at sidetable 1. On the sidetable 1, you see a alarmclock 1, a creditcard 2, and a pen 3.",
+        "success": false
+      },
+      {
+        "action": "examine pencil 1",
+        "observation": "There's nothing special about pencil 1.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "examine sidetable 1",
+        "observation": "On the sidetable 1, you see a alarmclock 1, a creditcard 2, and a pen 3.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 2",
+        "observation": "You arrive at drawer 2. The drawer 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "open drawer 2",
+        "observation": "You open the drawer 2. The drawer 2 is open. In it, you see a creditcard 3.",
+        "success": false
+      },
+      {
+        "action": "go to bed 1",
+        "observation": "You arrive at bed 1. On the bed 1, you see a book 1, a laptop 1, and a pillow 1.",
+        "success": false
+      },
+      {
+        "action": "examine bed 1",
+        "observation": "On the bed 1, you see a book 1, a laptop 1, and a pillow 1.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 1",
+        "observation": "You arrive at shelf 1. On the shelf 1, you see a pen 1.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. On the drawer 1, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_32",
+    "task_description": "Your task is to: cool some lettuce and put it in garbagecan.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:49.392937",
+    "steps": [
+      {
+        "action": "go to cabinet 13",
+        "observation": "You arrive at cabinet 13. On the cabinet 13, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 22",
+        "observation": "You arrive at cabinet 22. On the cabinet 22, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 8",
+        "observation": "You arrive at drawer 8. The drawer 8 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 13",
+        "observation": "You arrive at cabinet 13. On the cabinet 13, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 9",
+        "observation": "You arrive at cabinet 9. The cabinet 9 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 12",
+        "observation": "You arrive at drawer 12. The drawer 12 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to fridge 1",
+        "observation": "You arrive at fridge 1. The fridge 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 14",
+        "observation": "You arrive at cabinet 14. The cabinet 14 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 5",
+        "observation": "You arrive at cabinet 5. The cabinet 5 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine cabinet 5",
+        "observation": "The cabinet 5 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 24",
+        "observation": "You arrive at cabinet 24. The cabinet 24 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 5",
+        "observation": "You arrive at cabinet 5. The cabinet 5 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 12",
+        "observation": "You arrive at drawer 12. The drawer 12 is closed.",
+        "success": false
+      },
+      {
+        "action": "open drawer 12",
+        "observation": "You open the drawer 12. The drawer 12 is open. In it, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_33",
+    "task_description": "Your task is to: put some mug on dresser.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:53.322504",
+    "steps": [
+      {
+        "action": "go to countertop 1",
+        "observation": "You arrive at countertop 1. On the countertop 1, you see a alarmclock 2, a cellphone 3, a creditcard 3, a creditcard 2, a mirror 1, a mug 2, a pen 2, ",
+        "success": false
+      },
+      {
+        "action": "examine countertop 1",
+        "observation": "On the countertop 1, you see a alarmclock 2, a cellphone 3, a creditcard 3, a creditcard 2, a mirror 1, a mug 2, a pen 2, and a remotecontrol 2.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "take creditcard 2 from countertop 1",
+        "observation": "You pick up the creditcard 2 from the countertop 1.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to armchair 1",
+        "observation": "You arrive at armchair 1. On the armchair 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the drawer 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 1",
+        "observation": "You arrive at countertop 1. On the countertop 1, you see a alarmclock 2, a cellphone 3, a creditcard 3, a mirror 1, a mug 2, a pen 2, and a remotecont",
+        "success": false
+      },
+      {
+        "action": "go to bed 1",
+        "observation": "You arrive at bed 1. On the bed 1, you see a book 1, a cellphone 2, a laptop 1, a pillow 2, and a pillow 1.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the bed 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to armchair 2",
+        "observation": "You arrive at armchair 2. On the armchair 2, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to diningtable 1",
+        "observation": "You arrive at diningtable 1. On the diningtable 1, you see a bowl 1.",
+        "success": false
+      },
+      {
+        "action": "examine diningtable 1",
+        "observation": "On the diningtable 1, you see a bowl 1.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_34",
+    "task_description": "Your task is to: find two handtowel and put them in countertop.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:54.946298",
+    "steps": [
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see a soapbar 1.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 1",
+        "observation": "You arrive at cabinet 1. The cabinet 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine cabinet 1",
+        "observation": "The cabinet 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see a soapbar 1.",
+        "success": false
+      },
+      {
+        "action": "go to toilet 1",
+        "observation": "You arrive at toilet 1. On the toilet 1, you see a cloth 3, a spraybottle 2, and a toiletpaper 2.",
+        "success": false
+      },
+      {
+        "action": "go to handtowelholder 1",
+        "observation": "You arrive at handtowelholder 1. On the handtowelholder 1, you see a handtowel 1.",
+        "success": false
+      },
+      {
+        "action": "go to handtowelholder 2",
+        "observation": "You arrive at handtowelholder 2. On the handtowelholder 2, you see a handtowel 2.",
+        "success": false
+      },
+      {
+        "action": "go to toiletpaperhanger 1",
+        "observation": "You arrive at toiletpaperhanger 1. On the toiletpaperhanger 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to handtowelholder 2",
+        "observation": "You arrive at handtowelholder 2. On the handtowelholder 2, you see a handtowel 2.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see a soapbar 1.",
+        "success": false
+      },
+      {
+        "action": "go to toilet 1",
+        "observation": "You arrive at toilet 1. On the toilet 1, you see a cloth 3, a spraybottle 2, and a toiletpaper 2.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_35",
+    "task_description": "Your task is to: put a laptop in desk.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:56.529385",
+    "steps": [
+      {
+        "action": "go to drawer 2",
+        "observation": "You arrive at drawer 2. The drawer 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 1",
+        "observation": "You arrive at shelf 1. On the shelf 1, you see a alarmclock 1, a cellphone 2, and a creditcard 2.",
+        "success": false
+      },
+      {
+        "action": "take creditcard 2 from shelf 1",
+        "observation": "You pick up the creditcard 2 from the shelf 1.",
+        "success": false
+      },
+      {
+        "action": "go to desk 1",
+        "observation": "You arrive at desk 1. On the desk 1, you see a cellphone 3, a desklamp 1, and a keychain 1.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 3",
+        "observation": "You arrive at drawer 3. The drawer 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 4",
+        "observation": "You arrive at drawer 4. The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine drawer 1",
+        "observation": "The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine drawer 1",
+        "observation": "The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 2",
+        "observation": "You arrive at drawer 2. The drawer 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 5",
+        "observation": "You arrive at drawer 5. The drawer 5 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 4",
+        "observation": "You arrive at drawer 4. The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 5",
+        "observation": "You arrive at drawer 5. The drawer 5 is closed.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the drawer 5. Next to it, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_36",
+    "task_description": "Your task is to: put two soapbar in countertop.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:19:58.321771",
+    "steps": [
+      {
+        "action": "go to sinkbasin 2",
+        "observation": "You arrive at sinkbasin 2. On the sinkbasin 2, you see a dishsponge 3, a dishsponge 2, and a sink 2.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 4",
+        "observation": "You arrive at drawer 4. The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to handtowelholder 1",
+        "observation": "You arrive at handtowelholder 1. On the handtowelholder 1, you see a handtowel 1.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see a sink 1.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to toilet 1",
+        "observation": "You arrive at toilet 1. On the toilet 1, you see a candle 2, a soapbar 2, a spraybottle 3, and a toiletpaper 2.",
+        "success": false
+      },
+      {
+        "action": "take soapbar 2 from toilet 1",
+        "observation": "You pick up the soapbar 2 from the toilet 1.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine soapbar 2",
+        "observation": "There's nothing special about soapbar 2.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 7",
+        "observation": "You arrive at drawer 7. On the drawer 7, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see a soapbar 1.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see a sink 1.",
+        "success": false
+      },
+      {
+        "action": "go to handtowelholder 1",
+        "observation": "You arrive at handtowelholder 1. On the handtowelholder 1, you see a handtowel 1.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see a soapbar 1.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_37",
+    "task_description": "Your task is to: find two cellphone and put them in bed.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:20:00.343954",
+    "steps": [
+      {
+        "action": "go to cabinet 2",
+        "observation": "You arrive at cabinet 2. The cabinet 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine cabinet 2",
+        "observation": "The cabinet 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to bed 1",
+        "observation": "You arrive at bed 1. On the bed 1, you see a pillow 2, and a pillow 1.",
+        "success": false
+      },
+      {
+        "action": "go to desk 1",
+        "observation": "You arrive at desk 1. On the desk 1, you see a alarmclock 1, a cellphone 4, a cellphone 2, a creditcard 2, a houseplant 1, a laptop 1, a mug 3, a pen ",
+        "success": false
+      },
+      {
+        "action": "go to armchair 1",
+        "observation": "You arrive at armchair 1. On the armchair 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 4",
+        "observation": "You arrive at drawer 4. The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 1",
+        "observation": "You arrive at cabinet 1. The cabinet 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to bed 1",
+        "observation": "You arrive at bed 1. On the bed 1, you see a pillow 2, and a pillow 1.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the bed 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to armchair 1",
+        "observation": "You arrive at armchair 1. On the armchair 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "examine armchair 1",
+        "observation": "On the armchair 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to sidetable 1",
+        "observation": "You arrive at sidetable 1. On the sidetable 1, you see a desklamp 1, a pencil 1, and a remotecontrol 1.",
+        "success": false
+      },
+      {
+        "action": "go to safe 1",
+        "observation": "You arrive at safe 1. On the safe 1, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_38",
+    "task_description": "Your task is to: heat some egg and put it in countertop.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:20:05.680997",
+    "steps": [
+      {
+        "action": "go to countertop 4",
+        "observation": "You arrive at countertop 4. On the countertop 4, you see a bread 1, and a ladle 3.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 17",
+        "observation": "You arrive at cabinet 17. The cabinet 17 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 3",
+        "observation": "You arrive at drawer 3. The drawer 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 11",
+        "observation": "You arrive at cabinet 11. The cabinet 11 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 8",
+        "observation": "You arrive at cabinet 8. The cabinet 8 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to toaster 1",
+        "observation": "You arrive at toaster 1. On the toaster 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see a egg 1, and a tomato 2.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 12",
+        "observation": "You arrive at cabinet 12. The cabinet 12 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 4",
+        "observation": "You arrive at drawer 4. The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 4",
+        "observation": "You arrive at countertop 4. On the countertop 4, you see a bread 1, and a ladle 3.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 3",
+        "observation": "You arrive at cabinet 3. The cabinet 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 16",
+        "observation": "You arrive at cabinet 16. The cabinet 16 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 3",
+        "observation": "You arrive at countertop 3. On the countertop 3, you see a bowl 1, a knife 3, a ladle 2, a lettuce 2, a pen 2, and a plate 3.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 6",
+        "observation": "You arrive at cabinet 6. The cabinet 6 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 1",
+        "observation": "You arrive at stoveburner 1. On the stoveburner 1, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_39",
+    "task_description": "Your task is to: look at pillow under the desklamp.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:20:09.539860",
+    "steps": [
+      {
+        "action": "go to shelf 6",
+        "observation": "You arrive at shelf 6. On the shelf 6, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 5",
+        "observation": "You arrive at drawer 5. The drawer 5 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 4",
+        "observation": "You arrive at shelf 4. On the shelf 4, you see a houseplant 1.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 4",
+        "observation": "You arrive at drawer 4. The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 7",
+        "observation": "You arrive at shelf 7. On the shelf 7, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "examine garbagecan 1",
+        "observation": "On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the garbagecan 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 4",
+        "observation": "You arrive at shelf 4. On the shelf 4, you see a houseplant 1.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 3",
+        "observation": "You arrive at drawer 3. The drawer 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 4",
+        "observation": "You arrive at drawer 4. The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 3",
+        "observation": "You arrive at shelf 3. On the shelf 3, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 6",
+        "observation": "You arrive at drawer 6. The drawer 6 is closed.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the drawer 6, and drawer 4. Next to it, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_40",
+    "task_description": "Your task is to: heat some tomato and put it in garbagecan.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:20:16.986904",
+    "steps": [
+      {
+        "action": "go to cabinet 21",
+        "observation": "You arrive at cabinet 21. The cabinet 21 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 3",
+        "observation": "You arrive at cabinet 3. The cabinet 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 4",
+        "observation": "You arrive at cabinet 4. The cabinet 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 2",
+        "observation": "You arrive at cabinet 2. The cabinet 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 24",
+        "observation": "You arrive at cabinet 24. The cabinet 24 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 21",
+        "observation": "You arrive at cabinet 21. The cabinet 21 is closed.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 12",
+        "observation": "You arrive at cabinet 12. On the cabinet 12, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 17",
+        "observation": "You arrive at cabinet 17. The cabinet 17 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 2",
+        "observation": "You arrive at cabinet 2. The cabinet 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 5",
+        "observation": "You arrive at cabinet 5. The cabinet 5 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 26",
+        "observation": "You arrive at cabinet 26. The cabinet 26 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 10",
+        "observation": "You arrive at cabinet 10. The cabinet 10 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine cabinet 10",
+        "observation": "The cabinet 10 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 14",
+        "observation": "You arrive at cabinet 14. The cabinet 14 is closed.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_41",
+    "task_description": "Your task is to: put a clean pot in stoveburner.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:20:24.211459",
+    "steps": [
+      {
+        "action": "go to countertop 2",
+        "observation": "You arrive at countertop 2. On the countertop 2, you see a bread 1, a butterknife 2, a cup 1, a fork 3, a houseplant 1, a knife 1, a potato 2, a statu",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 1",
+        "observation": "You arrive at stoveburner 1. On the stoveburner 1, you see a pot 1.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the drawer 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 9",
+        "observation": "You arrive at cabinet 9. The cabinet 9 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 2",
+        "observation": "You arrive at countertop 2. On the countertop 2, you see a bread 1, a butterknife 2, a cup 1, a fork 3, a houseplant 1, a knife 1, a potato 2, a statu",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 7",
+        "observation": "You arrive at cabinet 7. The cabinet 7 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 7",
+        "observation": "You arrive at drawer 7. The drawer 7 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 4",
+        "observation": "You arrive at stoveburner 4. On the stoveburner 4, you see a pot 2.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 9",
+        "observation": "You arrive at cabinet 9. The cabinet 9 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 5",
+        "observation": "You arrive at drawer 5. The drawer 5 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to coffeemachine 1",
+        "observation": "You arrive at coffeemachine 1. On the coffeemachine 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 1",
+        "observation": "You arrive at stoveburner 1. On the stoveburner 1, you see a pot 1.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 3",
+        "observation": "You arrive at cabinet 3. The cabinet 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 2",
+        "observation": "You arrive at shelf 2. On the shelf 2, you see a saltshaker 1, and a vase 1.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_42",
+    "task_description": "Your task is to: put some newspaper on ottoman.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:20:27.287157",
+    "steps": [
+      {
+        "action": "go to drawer 6",
+        "observation": "You arrive at drawer 6. The drawer 6 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 8",
+        "observation": "You arrive at drawer 8. The drawer 8 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to coffeetable 2",
+        "observation": "You arrive at coffeetable 2. On the coffeetable 2, you see a creditcard 1.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 3",
+        "observation": "You arrive at drawer 3. The drawer 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to ottoman 1",
+        "observation": "You arrive at ottoman 1. On the ottoman 1, you see a laptop 3, a laptop 2, and a remotecontrol 2.",
+        "success": false
+      },
+      {
+        "action": "take remotecontrol 2 from ottoman 1",
+        "observation": "You pick up the remotecontrol 2 from the ottoman 1.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the ottoman 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 3",
+        "observation": "You arrive at drawer 3. The drawer 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 7",
+        "observation": "You arrive at drawer 7. The drawer 7 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to coffeetable 2",
+        "observation": "You arrive at coffeetable 2. On the coffeetable 2, you see a creditcard 1.",
+        "success": false
+      },
+      {
+        "action": "go to dresser 2",
+        "observation": "You arrive at dresser 2. On the dresser 2, you see a statue 3, and a statue 2.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 5",
+        "observation": "You arrive at drawer 5. The drawer 5 is closed.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_43",
+    "task_description": "Your task is to: put a clean soapbar in drawer.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:20:29.039882",
+    "steps": [
+      {
+        "action": "go to drawer 4",
+        "observation": "You arrive at drawer 4. The drawer 4 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the drawer 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to handtowelholder 2",
+        "observation": "You arrive at handtowelholder 2. On the handtowelholder 2, you see a handtowel 1.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 1",
+        "observation": "You arrive at countertop 1. On the countertop 1, you see a candle 2, a cloth 2, a sink 1, and a soapbar 1.",
+        "success": false
+      },
+      {
+        "action": "go to toiletpaperhanger 1",
+        "observation": "You arrive at toiletpaperhanger 1. On the toiletpaperhanger 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the toiletpaperhanger 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 1",
+        "observation": "You arrive at countertop 1. On the countertop 1, you see a candle 2, a cloth 2, a sink 1, and a soapbar 1.",
+        "success": false
+      },
+      {
+        "action": "go to toiletpaperhanger 1",
+        "observation": "You arrive at toiletpaperhanger 1. On the toiletpaperhanger 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to handtowelholder 2",
+        "observation": "You arrive at handtowelholder 2. On the handtowelholder 2, you see a handtowel 1.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see a sink 1.",
+        "success": false
+      },
+      {
+        "action": "examine sinkbasin 1",
+        "observation": "On the sinkbasin 1, you see a sink 1.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 1",
+        "observation": "You arrive at countertop 1. On the countertop 1, you see a candle 2, a cloth 2, a sink 1, and a soapbar 1.",
+        "success": false
+      },
+      {
+        "action": "take candle 2 from countertop 1",
+        "observation": "You pick up the candle 2 from the countertop 1.",
+        "success": false
+      },
+      {
+        "action": "go to handtowelholder 1",
+        "observation": "You arrive at handtowelholder 1. On the handtowelholder 1, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_44",
+    "task_description": "Your task is to: cool some mug and put it in coffeemachine.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:20:35.227244",
+    "steps": [
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see a tomato 1.",
+        "success": false
+      },
+      {
+        "action": "go to microwave 1",
+        "observation": "You arrive at microwave 1. The microwave 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 13",
+        "observation": "You arrive at drawer 13. The drawer 13 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 2",
+        "observation": "You arrive at countertop 2. On the countertop 2, you see a apple 1, a butterknife 1, a cellphone 1, a kettle 1, a knife 1, a lettuce 1, and a plate 3.",
+        "success": false
+      },
+      {
+        "action": "go to microwave 1",
+        "observation": "You arrive at microwave 1. The microwave 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 1",
+        "observation": "You arrive at cabinet 1. The cabinet 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine cabinet 1",
+        "observation": "The cabinet 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 3",
+        "observation": "You arrive at drawer 3. The drawer 3 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 19",
+        "observation": "You arrive at drawer 19. The drawer 19 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 24",
+        "observation": "You arrive at drawer 24. The drawer 24 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 3",
+        "observation": "You arrive at countertop 3. On the countertop 3, you see a apple 2, a ladle 3, and a pan 2.",
+        "success": false
+      },
+      {
+        "action": "go to fridge 1",
+        "observation": "You arrive at fridge 1. The fridge 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the fridge 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 25",
+        "observation": "You arrive at drawer 25. The drawer 25 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 7",
+        "observation": "You arrive at cabinet 7. The cabinet 7 is closed.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_45",
+    "task_description": "Your task is to: put two spraybottle in garbagecan.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:20:38.902482",
+    "steps": [
+      {
+        "action": "go to sinkbasin 2",
+        "observation": "You arrive at sinkbasin 2. On the sinkbasin 2, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to toilet 1",
+        "observation": "You arrive at toilet 1. On the toilet 1, you see a soapbar 2, and a soapbottle 1.",
+        "success": false
+      },
+      {
+        "action": "go to handtowelholder 1",
+        "observation": "You arrive at handtowelholder 1. On the handtowelholder 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see a soapbar 3.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 1",
+        "observation": "You arrive at countertop 1. On the countertop 1, you see a candle 1, a soapbar 1, a spraybottle 2, and a spraybottle 1.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see a soapbar 3.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 2",
+        "observation": "You arrive at sinkbasin 2. On the sinkbasin 2, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "examine sinkbasin 2",
+        "observation": "On the sinkbasin 2, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to toiletpaperhanger 1",
+        "observation": "You arrive at toiletpaperhanger 1. On the toiletpaperhanger 1, you see a toiletpaper 3.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see a soapbar 3.",
+        "success": false
+      },
+      {
+        "action": "go to countertop 1",
+        "observation": "You arrive at countertop 1. On the countertop 1, you see a candle 1, a soapbar 1, a spraybottle 2, and a spraybottle 1.",
+        "success": false
+      },
+      {
+        "action": "take spraybottle 2 from countertop 1",
+        "observation": "You pick up the spraybottle 2 from the countertop 1.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 2",
+        "observation": "You arrive at sinkbasin 2. On the sinkbasin 2, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are carrying: a spraybottle 2.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_46",
+    "task_description": "Your task is to: clean some soapbar and put it in garbagecan.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:20:40.376049",
+    "steps": [
+      {
+        "action": "go to shelf 3",
+        "observation": "You arrive at shelf 3. On the shelf 3, you see a soapbar 1, a spraybottle 1, and a tissuebox 2.",
+        "success": false
+      },
+      {
+        "action": "take soapbar 1 from shelf 3",
+        "observation": "You pick up the soapbar 1 from the shelf 3.",
+        "success": false
+      },
+      {
+        "action": "examine shelf 3",
+        "observation": "On the shelf 3, you see a spraybottle 1, and a tissuebox 2.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to toiletpaperhanger 1",
+        "observation": "You arrive at toiletpaperhanger 1. On the toiletpaperhanger 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to bathtubbasin 1",
+        "observation": "You arrive at bathtubbasin 1. On the bathtubbasin 1, you see a cloth 3, a cloth 2, and a cloth 1.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 2",
+        "observation": "You arrive at shelf 2. On the shelf 2, you see a toiletpaper 2.",
+        "success": false
+      },
+      {
+        "action": "go to toiletpaperhanger 1",
+        "observation": "You arrive at toiletpaperhanger 1. On the toiletpaperhanger 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the toiletpaperhanger 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "examine toiletpaperhanger 1",
+        "observation": "On the toiletpaperhanger 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to towelholder 1",
+        "observation": "You arrive at towelholder 1. On the towelholder 1, you see a towel 1.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to bathtubbasin 1",
+        "observation": "You arrive at bathtubbasin 1. On the bathtubbasin 1, you see a cloth 3, a cloth 2, and a cloth 1.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_47",
+    "task_description": "Your task is to: examine the plate with the desklamp.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:20:41.828221",
+    "steps": [
+      {
+        "action": "go to diningtable 1",
+        "observation": "You arrive at diningtable 1. On the diningtable 1, you see a box 1, a keychain 1, a newspaper 2, a plate 2, and a statue 1.",
+        "success": false
+      },
+      {
+        "action": "take keychain 1 from diningtable 1",
+        "observation": "You pick up the keychain 1 from the diningtable 1.",
+        "success": false
+      },
+      {
+        "action": "go to sidetable 1",
+        "observation": "You arrive at sidetable 1. On the sidetable 1, you see a desklamp 1, and a plate 1.",
+        "success": false
+      },
+      {
+        "action": "go to dresser 1",
+        "observation": "You arrive at dresser 1. On the dresser 1, you see a cellphone 1, a creditcard 1, a newspaper 1, and a television 1.",
+        "success": false
+      },
+      {
+        "action": "go to sofa 1",
+        "observation": "You arrive at sofa 1. On the sofa 1, you see a pillow 1.",
+        "success": false
+      },
+      {
+        "action": "move keychain 1 to sofa 1",
+        "observation": "You move the keychain 1 to the sofa 1.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to sidetable 2",
+        "observation": "You arrive at sidetable 2. On the sidetable 2, you see a houseplant 1, a remotecontrol 1, and a statue 2.",
+        "success": false
+      },
+      {
+        "action": "take statue 2 from sidetable 2",
+        "observation": "You pick up the statue 2 from the sidetable 2.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 2",
+        "observation": "You arrive at drawer 2. The drawer 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine drawer 2",
+        "observation": "The drawer 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are carrying: a statue 2.",
+        "success": false
+      },
+      {
+        "action": "examine drawer 2",
+        "observation": "The drawer 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine statue 2",
+        "observation": "There's nothing special about statue 2.",
+        "success": false
+      },
+      {
+        "action": "go to diningtable 1",
+        "observation": "You arrive at diningtable 1. On the diningtable 1, you see a box 1, a newspaper 2, a plate 2, and a statue 1.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_48",
+    "task_description": "Your task is to: find two cup and put them in microwave.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:20:45.398619",
+    "steps": [
+      {
+        "action": "go to drawer 2",
+        "observation": "You arrive at drawer 2. The drawer 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 9",
+        "observation": "You arrive at cabinet 9. The cabinet 9 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to diningtable 1",
+        "observation": "You arrive at diningtable 1. On the diningtable 1, you see a bread 1, a cup 2, a mug 1, a peppershaker 1, a plate 1, and a spatula 1.",
+        "success": false
+      },
+      {
+        "action": "go to stoveburner 2",
+        "observation": "You arrive at stoveburner 2. On the stoveburner 2, you see a pot 1.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 8",
+        "observation": "You arrive at cabinet 8. On the cabinet 8, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 2",
+        "observation": "You arrive at drawer 2. The drawer 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the drawer 2. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 3",
+        "observation": "You arrive at cabinet 3. On the cabinet 3, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 8",
+        "observation": "You arrive at cabinet 8. On the cabinet 8, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 3",
+        "observation": "You arrive at cabinet 3. On the cabinet 3, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to sinkbasin 1",
+        "observation": "You arrive at sinkbasin 1. On the sinkbasin 1, you see a apple 1, a dishsponge 1, a plate 3, and a spoon 2.",
+        "success": false
+      },
+      {
+        "action": "go to diningtable 1",
+        "observation": "You arrive at diningtable 1. On the diningtable 1, you see a bread 1, a cup 2, a mug 1, a peppershaker 1, a plate 1, and a spatula 1.",
+        "success": false
+      },
+      {
+        "action": "take bread 1 from diningtable 1",
+        "observation": "You pick up the bread 1 from the diningtable 1.",
+        "success": false
+      },
+      {
+        "action": "go to cabinet 7",
+        "observation": "You arrive at cabinet 7. On the cabinet 7, you see nothing.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_49",
+    "task_description": "Your task is to: look at cd under the desklamp.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:20:47.724192",
+    "steps": [
+      {
+        "action": "go to shelf 1",
+        "observation": "You arrive at shelf 1. On the shelf 1, you see a mug 2, a mug 1, and a pen 1.",
+        "success": false
+      },
+      {
+        "action": "take pen 1 from shelf 1",
+        "observation": "You pick up the pen 1 from the shelf 1.",
+        "success": false
+      },
+      {
+        "action": "help",
+        "observation": "Available commands:\n  look:                             look around your current location\n  inventory:                        check your current inven",
+        "success": false
+      },
+      {
+        "action": "go to drawer 2",
+        "observation": "You arrive at drawer 2. The drawer 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "examine drawer 1",
+        "observation": "The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 1",
+        "observation": "You arrive at shelf 1. On the shelf 1, you see a mug 2, and a mug 1.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the shelf 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to sidetable 1",
+        "observation": "You arrive at sidetable 1. On the sidetable 1, you see a alarmclock 1, a cd 3, and a cd 2.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 2",
+        "observation": "You arrive at drawer 2. The drawer 2 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are carrying: a pen 1.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 1",
+        "observation": "You arrive at shelf 1. On the shelf 1, you see a mug 2, and a mug 1.",
+        "success": false
+      },
+      {
+        "action": "go to bed 1",
+        "observation": "You arrive at bed 1. On the bed 1, you see a book 1, a cellphone 2, a laptop 2, a pillow 1, and a teddybear 1.",
+        "success": false
+      }
+    ]
+  },
+  {
+    "task_id": "task_50",
+    "task_description": "Your task is to: put a box in armchair.",
+    "completed": false,
+    "final_result": "failed",
+    "timestamp": "2026-06-29T04:20:49.524019",
+    "steps": [
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "look",
+        "observation": "You are facing the garbagecan 1. Next to it, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 4",
+        "observation": "You arrive at shelf 4. On the shelf 4, you see a newspaper 2.",
+        "success": false
+      },
+      {
+        "action": "examine shelf 4",
+        "observation": "On the shelf 4, you see a newspaper 2.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "inventory",
+        "observation": "You are not carrying anything.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 1",
+        "observation": "You arrive at shelf 1. On the shelf 1, you see a watch 2.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 6",
+        "observation": "You arrive at shelf 6. On the shelf 6, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 4",
+        "observation": "You arrive at shelf 4. On the shelf 4, you see a newspaper 2.",
+        "success": false
+      },
+      {
+        "action": "examine shelf 4",
+        "observation": "On the shelf 4, you see a newspaper 2.",
+        "success": false
+      },
+      {
+        "action": "go to garbagecan 1",
+        "observation": "You arrive at garbagecan 1. On the garbagecan 1, you see nothing.",
+        "success": false
+      },
+      {
+        "action": "go to drawer 1",
+        "observation": "You arrive at drawer 1. The drawer 1 is closed.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 4",
+        "observation": "You arrive at shelf 4. On the shelf 4, you see a newspaper 2.",
+        "success": false
+      },
+      {
+        "action": "go to shelf 2",
+        "observation": "You arrive at shelf 2. On the shelf 2, you see a newspaper 1.",
+        "success": false
+      }
+    ]
+  }
+]
